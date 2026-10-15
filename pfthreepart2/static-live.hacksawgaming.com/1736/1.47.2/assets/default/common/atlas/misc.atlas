@@ -1,0 +1,75 @@
+misc.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bonus_1_title
+  rotate: false
+  xy: 1, 938
+  size: 309, 72
+  orig: 309, 74
+  offset: 0, 2
+  index: -1
+bonus_2_title
+  rotate: false
+  xy: 1, 465
+  size: 210, 101
+  orig: 219, 111
+  offset: 5, 5
+  index: -1
+bonus_3_title
+  rotate: false
+  xy: 1, 340
+  size: 286, 123
+  orig: 286, 123
+  offset: 0, 0
+  index: -1
+fs2
+  rotate: false
+  xy: 518, 1
+  size: 493, 205
+  orig: 528, 236
+  offset: 18, 15
+  index: -1
+fs4
+  rotate: false
+  xy: 1, 133
+  size: 489, 205
+  orig: 524, 240
+  offset: 20, 17
+  index: -1
+hidden_epic_sticker 
+  rotate: false
+  xy: 371, 573
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+hidden_epic_sticker_small
+  rotate: false
+  xy: 868, 208
+  size: 148, 148
+  orig: 148, 148
+  offset: 0, 0
+  index: -1
+logo
+  rotate: false
+  xy: 1, 573
+  size: 368, 363
+  orig: 411, 381
+  offset: 10, 9
+  index: -1
+logo_bonus
+  rotate: false
+  xy: 492, 208
+  size: 374, 363
+  orig: 411, 381
+  offset: 10, 9
+  index: -1
+total_win_bar_backplate
+  rotate: false
+  xy: 1, 1
+  size: 515, 130
+  orig: 532, 141
+  offset: 6, 4
+  index: -1

@@ -1,0 +1,12 @@
+transition_fire.jpg
+size: 2048, 2048
+format: RGB888
+filter: Linear,Linear
+repeat: none
+fire
+  rotate: false
+  xy: 1, 1
+  size: 1924, 1080
+  orig: 1924, 1080
+  offset: 0, 0
+  index: -1

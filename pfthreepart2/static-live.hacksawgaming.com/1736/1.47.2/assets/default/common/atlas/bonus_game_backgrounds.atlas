@@ -1,0 +1,19 @@
+bonus_game_backgrounds.jpg
+size: 2048, 2048
+format: RGB888
+filter: Linear,Linear
+repeat: none
+bg_bonus
+  rotate: false
+  xy: 1, 1
+  size: 1814, 1021
+  orig: 1814, 1021
+  offset: 0, 0
+  index: -1
+bg_bonus2
+  rotate: false
+  xy: 1, 1024
+  size: 1814, 1021
+  orig: 1814, 1021
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,19 @@
+total_win.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+total_win_blue
+  rotate: false
+  xy: 1, 1
+  size: 1177, 252
+  orig: 1203, 265
+  offset: 14, 8
+  index: -1
+total_win_red
+  rotate: false
+  xy: 1, 255
+  size: 1177, 252
+  orig: 1203, 265
+  offset: 14, 5
+  index: -1

@@ -1,0 +1,26 @@
+reel_frame_red.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_bg
+  rotate: false
+  xy: 1, 1
+  size: 1979, 1026
+  orig: 2031, 1280
+  offset: 24, 33
+  index: -1
+stairs_bonusreel_red
+  rotate: false
+  xy: 1, 1029
+  size: 1572, 260
+  orig: 1634, 260
+  offset: 31, 0
+  index: -1
+top_bar_bg
+  rotate: false
+  xy: 1, 1291
+  size: 1412, 212
+  orig: 1412, 332
+  offset: 0, 0
+  index: -1

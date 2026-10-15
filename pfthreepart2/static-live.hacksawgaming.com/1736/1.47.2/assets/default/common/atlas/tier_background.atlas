@@ -1,0 +1,12 @@
+tier_background.png
+size: 2048, 2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 2043, 1149
+  orig: 2043, 1149
+  offset: 0, 0
+  index: -1

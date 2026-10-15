@@ -1,0 +1,12 @@
+reel_frame.png
+size: 1024, 1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+reel_bg
+  rotate: false
+  xy: 1, 1
+  size: 1010, 845
+  orig: 1032, 864
+  offset: 12, 9
+  index: -1

@@ -1,0 +1,124 @@
+multipliers.png
+size: 512, 512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2x
+  rotate: false
+  xy: 1, 393
+  size: 95, 62
+  orig: 501, 144
+  offset: 204, 43
+  index: -1
+3x
+  rotate: false
+  xy: 412, 261
+  size: 97, 64
+  orig: 501, 144
+  offset: 202, 43
+  index: -1
+4x
+  rotate: false
+  xy: 412, 195
+  size: 98, 64
+  orig: 501, 144
+  offset: 201, 43
+  index: -1
+5x
+  rotate: false
+  xy: 400, 327
+  size: 95, 64
+  orig: 501, 144
+  offset: 204, 43
+  index: -1
+10x
+  rotate: false
+  xy: 328, 129
+  size: 127, 64
+  orig: 501, 144
+  offset: 187, 43
+  index: -1
+25x
+  rotate: false
+  xy: 159, 145
+  size: 127, 62
+  orig: 501, 144
+  offset: 187, 43
+  index: -1
+50x
+  rotate: false
+  xy: 328, 65
+  size: 128, 62
+  orig: 501, 144
+  offset: 187, 43
+  index: -1
+100x
+  rotate: false
+  xy: 168, 1
+  size: 164, 62
+  orig: 501, 144
+  offset: 168, 45
+  index: -1
+200x
+  rotate: false
+  xy: 1, 1
+  size: 165, 62
+  orig: 501, 144
+  offset: 168, 45
+  index: -1
+333x
+  rotate: false
+  xy: 334, 1
+  size: 164, 62
+  orig: 501, 144
+  offset: 171, 45
+  index: -1
+x2
+  rotate: false
+  xy: 280, 274
+  size: 118, 77
+  orig: 738, 210
+  offset: 310, 69
+  index: -1
+x3
+  rotate: false
+  xy: 159, 209
+  size: 119, 77
+  orig: 738, 210
+  offset: 309, 69
+  index: -1
+x4
+  rotate: false
+  xy: 288, 195
+  size: 122, 77
+  orig: 738, 210
+  offset: 307, 69
+  index: -1
+x5
+  rotate: false
+  xy: 1, 223
+  size: 116, 77
+  orig: 738, 210
+  offset: 312, 69
+  index: -1
+x10
+  rotate: false
+  xy: 1, 144
+  size: 156, 77
+  orig: 738, 210
+  offset: 291, 69
+  index: -1
+x20
+  rotate: false
+  xy: 1, 65
+  size: 162, 77
+  orig: 738, 210
+  offset: 288, 69
+  index: -1
+x33
+  rotate: false
+  xy: 165, 65
+  size: 161, 78
+  orig: 738, 210
+  offset: 288, 66
+  index: -1

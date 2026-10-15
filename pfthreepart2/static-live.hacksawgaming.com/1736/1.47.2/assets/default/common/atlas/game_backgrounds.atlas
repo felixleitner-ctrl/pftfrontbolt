@@ -1,0 +1,12 @@
+game_backgrounds.jpg
+size: 2048, 2048
+format: RGB888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 1
+  size: 1824, 1026
+  orig: 1824, 1026
+  offset: 0, 0
+  index: -1

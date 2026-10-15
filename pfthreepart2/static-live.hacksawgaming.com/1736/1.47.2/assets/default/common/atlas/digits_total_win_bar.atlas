@@ -1,0 +1,96 @@
+digits_total_win_bar.png
+size: 256, 256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 58
+  size: 43, 54
+  orig: 45, 62
+  offset: 1, 2
+  index: -1
+1
+  rotate: false
+  xy: 85, 113
+  size: 37, 54
+  orig: 45, 62
+  offset: 4, 2
+  index: -1
+2
+  rotate: false
+  xy: 43, 170
+  size: 39, 54
+  orig: 45, 62
+  offset: 3, 2
+  index: -1
+3
+  rotate: false
+  xy: 1, 114
+  size: 40, 54
+  orig: 45, 62
+  offset: 2, 2
+  index: -1
+4
+  rotate: false
+  xy: 45, 1
+  size: 43, 54
+  orig: 45, 62
+  offset: 1, 2
+  index: -1
+5
+  rotate: false
+  xy: 46, 57
+  size: 39, 54
+  orig: 45, 62
+  offset: 3, 2
+  index: -1
+6
+  rotate: false
+  xy: 1, 170
+  size: 40, 54
+  orig: 45, 62
+  offset: 2, 2
+  index: -1
+7
+  rotate: false
+  xy: 84, 170
+  size: 39, 54
+  orig: 45, 62
+  offset: 3, 2
+  index: -1
+8
+  rotate: false
+  xy: 1, 1
+  size: 42, 55
+  orig: 45, 62
+  offset: 1, 2
+  index: -1
+9
+  rotate: false
+  xy: 43, 114
+  size: 40, 54
+  orig: 45, 62
+  offset: 2, 2
+  index: -1
+10
+  rotate: false
+  xy: 1, 226
+  size: 20, 27
+  orig: 20, 62
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 23, 226
+  size: 20, 25
+  orig: 20, 62
+  offset: 0, 2
+  index: -1
+x
+  rotate: false
+  xy: 87, 57
+  size: 41, 46
+  orig: 45, 62
+  offset: 2, 6
+  index: -1
