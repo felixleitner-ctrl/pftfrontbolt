@@ -1,0 +1,3824 @@
+{
+   "path": "assets",
+   "name": "assets",
+   "children": [
+      {
+         "path": "assets/default",
+         "name": "default",
+         "children": [
+            {
+               "path": "assets/default/common",
+               "name": "common",
+               "children": [
+                  {
+                     "path": "assets/default/common/atlas",
+                     "name": "atlas",
+                     "children": [
+                        {
+                           "path": "assets/default/common/atlas/bonus_game_backgrounds.atlas",
+                           "name": "bonus_game_backgrounds.atlas",
+                           "size": 319,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/bonus_game_backgrounds.jpg",
+                           "name": "bonus_game_backgrounds.jpg",
+                           "size": 128393,
+                           "type": "file",
+                           "extension": ".jpg"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/bonus_game_epic_backgrounds.atlas",
+                           "name": "bonus_game_epic_backgrounds.atlas",
+                           "size": 341,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/bonus_game_epic_backgrounds.ktx2",
+                           "name": "bonus_game_epic_backgrounds.ktx2",
+                           "size": 267580,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits.atlas",
+                           "name": "digits.atlas",
+                           "size": 1503,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits.ktx2",
+                           "name": "digits.ktx2",
+                           "size": 212336,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_countup_blue.atlas",
+                           "name": "digits_countup_blue.atlas",
+                           "size": 1408,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_countup_blue.ktx2",
+                           "name": "digits_countup_blue.ktx2",
+                           "size": 82497,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_countup_red.atlas",
+                           "name": "digits_countup_red.atlas",
+                           "size": 1407,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_countup_red.ktx2",
+                           "name": "digits_countup_red.ktx2",
+                           "size": 82001,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_total_win_bar.atlas",
+                           "name": "digits_total_win_bar.atlas",
+                           "size": 1335,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_total_win_bar.ktx2",
+                           "name": "digits_total_win_bar.ktx2",
+                           "size": 7190,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_winline_blue.atlas",
+                           "name": "digits_winline_blue.atlas",
+                           "size": 1397,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_winline_blue.ktx2",
+                           "name": "digits_winline_blue.ktx2",
+                           "size": 26550,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_winline_red.atlas",
+                           "name": "digits_winline_red.atlas",
+                           "size": 1396,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/digits_winline_red.ktx2",
+                           "name": "digits_winline_red.ktx2",
+                           "size": 25197,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/game_backgrounds.atlas",
+                           "name": "game_backgrounds.atlas",
+                           "size": 195,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/game_backgrounds.jpg",
+                           "name": "game_backgrounds.jpg",
+                           "size": 101658,
+                           "type": "file",
+                           "extension": ".jpg"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/localized",
+                           "name": "localized",
+                           "children": [
+                              {
+                                 "path": "assets/default/common/atlas/localized/es-es",
+                                 "name": "es-es",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/atlas/localized/es-es/total_win.atlas",
+                                       "name": "total_win.atlas",
+                                       "size": 315,
+                                       "type": "file",
+                                       "extension": ".atlas"
+                                    },
+                                    {
+                                       "path": "assets/default/common/atlas/localized/es-es/total_win.ktx2",
+                                       "name": "total_win.ktx2",
+                                       "size": 67161,
+                                       "type": "file",
+                                       "extension": ".ktx2"
+                                    }
+                                 ],
+                                 "size": 67476,
+                                 "type": "directory"
+                              }
+                           ],
+                           "size": 67476,
+                           "type": "directory"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/misc.atlas",
+                           "name": "misc.atlas",
+                           "size": 1198,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/misc.ktx2",
+                           "name": "misc.ktx2",
+                           "size": 245897,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/multipliers.atlas",
+                           "name": "multipliers.atlas",
+                           "size": 1845,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/multipliers.ktx2",
+                           "name": "multipliers.ktx2",
+                           "size": 76621,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame.atlas",
+                           "name": "reel_frame.atlas",
+                           "size": 195,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame.ktx2",
+                           "name": "reel_frame.ktx2",
+                           "size": 132645,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame_blue.atlas",
+                           "name": "reel_frame_blue.atlas",
+                           "size": 436,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame_blue.ktx2",
+                           "name": "reel_frame_blue.ktx2",
+                           "size": 250480,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame_red.atlas",
+                           "name": "reel_frame_red.atlas",
+                           "size": 435,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/reel_frame_red.ktx2",
+                           "name": "reel_frame_red.ktx2",
+                           "size": 249532,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/splash.atlas",
+                           "name": "splash.atlas",
+                           "size": 724,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/splash.ktx2",
+                           "name": "splash.ktx2",
+                           "size": 312502,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/tier_background.atlas",
+                           "name": "tier_background.atlas",
+                           "size": 196,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/tier_background.ktx2",
+                           "name": "tier_background.ktx2",
+                           "size": 330502,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/total_win.atlas",
+                           "name": "total_win.atlas",
+                           "size": 315,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/total_win.ktx2",
+                           "name": "total_win.ktx2",
+                           "size": 90111,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/transition_backgrounds.atlas",
+                           "name": "transition_backgrounds.atlas",
+                           "size": 312,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/transition_backgrounds.ktx2",
+                           "name": "transition_backgrounds.ktx2",
+                           "size": 270074,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/transition_fire.atlas",
+                           "name": "transition_fire.atlas",
+                           "size": 196,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/atlas/transition_fire.jpg",
+                           "name": "transition_fire.jpg",
+                           "size": 191927,
+                           "type": "file",
+                           "extension": ".jpg"
+                        }
+                     ],
+                     "size": 3166322,
+                     "type": "directory"
+                  },
+                  {
+                     "path": "assets/default/common/font",
+                     "name": "font",
+                     "children": [
+                        {
+                           "path": "assets/default/common/font/arco.ttf",
+                           "name": "arco.ttf",
+                           "size": 207088,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/cyrillicfb.ttf",
+                           "name": "cyrillicfb.ttf",
+                           "size": 169352,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/fontconfig.json",
+                           "name": "fontconfig.json",
+                           "size": 600,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/font/localized",
+                           "name": "localized",
+                           "children": [
+                              {
+                                 "path": "assets/default/common/font/localized/bg-bg",
+                                 "name": "bg-bg",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/bg-bg/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20193,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/bg-bg/arco.png",
+                                       "name": "arco.png",
+                                       "size": 134186,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 154379,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/cs-cz",
+                                 "name": "cs-cz",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/cs-cz/arco.json",
+                                       "name": "arco.json",
+                                       "size": 19218,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/cs-cz/arco.png",
+                                       "name": "arco.png",
+                                       "size": 122742,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 141960,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/da-dk",
+                                 "name": "da-dk",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/da-dk/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15118,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/da-dk/arco.png",
+                                       "name": "arco.png",
+                                       "size": 119514,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 134632,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/de-de",
+                                 "name": "de-de",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/de-de/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15625,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/de-de/arco.png",
+                                       "name": "arco.png",
+                                       "size": 124201,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 139826,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/el-gr",
+                                 "name": "el-gr",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/el-gr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 19068,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/el-gr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 138764,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 157832,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/en-us",
+                                 "name": "en-us",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/en-us/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14151,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/en-us/arco.png",
+                                       "name": "arco.png",
+                                       "size": 114616,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 128767,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/es-es",
+                                 "name": "es-es",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/es-es/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15878,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/es-es/arco.png",
+                                       "name": "arco.png",
+                                       "size": 123907,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 139785,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/fi-fi",
+                                 "name": "fi-fi",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/fi-fi/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14331,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/fi-fi/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111224,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 125555,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/fr-fr",
+                                 "name": "fr-fr",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/fr-fr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15690,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/fr-fr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 97658,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 113348,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/hr-hr",
+                                 "name": "hr-hr",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/hr-hr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16130,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/hr-hr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 100669,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 116799,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/hu-hu",
+                                 "name": "hu-hu",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/hu-hu/arco.json",
+                                       "name": "arco.json",
+                                       "size": 18255,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/hu-hu/arco.png",
+                                       "name": "arco.png",
+                                       "size": 113795,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 132050,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/id-id",
+                                 "name": "id-id",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/id-id/arco.json",
+                                       "name": "arco.json",
+                                       "size": 13953,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/id-id/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111665,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 125618,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/it-it",
+                                 "name": "it-it",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/it-it/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14495,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/it-it/arco.png",
+                                       "name": "arco.png",
+                                       "size": 90956,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 105451,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/ja-jp",
+                                 "name": "ja-jp",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/ja-jp/arco.json",
+                                       "name": "arco.json",
+                                       "size": 30553,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/ja-jp/arco.png",
+                                       "name": "arco.png",
+                                       "size": 376229,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 406782,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/ko-kr",
+                                 "name": "ko-kr",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/ko-kr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 31213,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/ko-kr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 258140,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 289353,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/lt-lt",
+                                 "name": "lt-lt",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/lt-lt/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17971,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/lt-lt/arco.png",
+                                       "name": "arco.png",
+                                       "size": 109016,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 126987,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/lv-lv",
+                                 "name": "lv-lv",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/lv-lv/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17586,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/lv-lv/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111750,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 129336,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/nl-nl",
+                                 "name": "nl-nl",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/nl-nl/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14736,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/nl-nl/arco.png",
+                                       "name": "arco.png",
+                                       "size": 118391,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 133127,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/no-no",
+                                 "name": "no-no",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/no-no/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15007,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/no-no/arco.png",
+                                       "name": "arco.png",
+                                       "size": 118020,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 133027,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/pl-pl",
+                                 "name": "pl-pl",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/pl-pl/arco.json",
+                                       "name": "arco.json",
+                                       "size": 18062,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/pl-pl/arco.png",
+                                       "name": "arco.png",
+                                       "size": 113677,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 131739,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/pt-br",
+                                 "name": "pt-br",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/pt-br/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17098,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/pt-br/arco.png",
+                                       "name": "arco.png",
+                                       "size": 109301,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 126399,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/pt-pt",
+                                 "name": "pt-pt",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/pt-pt/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16267,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/pt-pt/arco.png",
+                                       "name": "arco.png",
+                                       "size": 103871,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 120138,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/ro-ro",
+                                 "name": "ro-ro",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/ro-ro/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16496,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/ro-ro/arco.png",
+                                       "name": "arco.png",
+                                       "size": 103689,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 120185,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/ru-ru",
+                                 "name": "ru-ru",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/ru-ru/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20368,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/ru-ru/arco.png",
+                                       "name": "arco.png",
+                                       "size": 122415,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 142783,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/sv-se",
+                                 "name": "sv-se",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/sv-se/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15329,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/sv-se/arco.png",
+                                       "name": "arco.png",
+                                       "size": 114392,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 129721,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/th-th",
+                                 "name": "th-th",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/th-th/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20265,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/th-th/arco.png",
+                                       "name": "arco.png",
+                                       "size": 123669,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 143934,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/tr-tr",
+                                 "name": "tr-tr",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/tr-tr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17606,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/tr-tr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111254,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 128860,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/uk-ua",
+                                 "name": "uk-ua",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/uk-ua/arco.json",
+                                       "name": "arco.json",
+                                       "size": 22001,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/uk-ua/arco.png",
+                                       "name": "arco.png",
+                                       "size": 127501,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 149502,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/vi-vn",
+                                 "name": "vi-vn",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/vi-vn/arco.json",
+                                       "name": "arco.json",
+                                       "size": 25929,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/vi-vn/arco.png",
+                                       "name": "arco.png",
+                                       "size": 174535,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 200464,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/zh-cn",
+                                 "name": "zh-cn",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/zh-cn/arco.json",
+                                       "name": "arco.json",
+                                       "size": 28598,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/zh-cn/arco.png",
+                                       "name": "arco.png",
+                                       "size": 367162,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 395760,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/default/common/font/localized/zh-tw",
+                                 "name": "zh-tw",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/font/localized/zh-tw/arco.json",
+                                       "name": "arco.json",
+                                       "size": 27625,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/font/localized/zh-tw/arco.png",
+                                       "name": "arco.png",
+                                       "size": 347037,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 374662,
+                                 "type": "directory"
+                              }
+                           ],
+                           "size": 5098761,
+                           "type": "directory"
+                        },
+                        {
+                           "path": "assets/default/common/font/notosansblack.ttf",
+                           "name": "notosansblack.ttf",
+                           "size": 492052,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/pridi.ttf",
+                           "name": "pridi.ttf",
+                           "size": 201320,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/rubik_black.ttf",
+                           "name": "rubik_black.ttf",
+                           "size": 139164,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/sourcehansans_hwj_bold.ttf",
+                           "name": "sourcehansans_hwj_bold.ttf",
+                           "size": 17869588,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/sourcehansans_hwsc_bold.ttf",
+                           "name": "sourcehansans_hwsc_bold.ttf",
+                           "size": 17839816,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/default/common/font/titanone_regular.ttf",
+                           "name": "titanone_regular.ttf",
+                           "size": 80728,
+                           "type": "file",
+                           "extension": ".ttf"
+                        }
+                     ],
+                     "size": 42098469,
+                     "type": "directory"
+                  },
+                  {
+                     "path": "assets/default/common/sound",
+                     "name": "sound",
+                     "children": [
+                        {
+                           "path": "assets/default/common/sound/bell_breifcase.mp4",
+                           "name": "bell_breifcase.mp4",
+                           "size": 12053,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/bell_breifcase.webm",
+                           "name": "bell_breifcase.webm",
+                           "size": 14759,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/bell_impact.mp4",
+                           "name": "bell_impact.mp4",
+                           "size": 40535,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/bell_impact.webm",
+                           "name": "bell_impact.webm",
+                           "size": 43606,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_1.mp4",
+                           "name": "cartoon_divine_1.mp4",
+                           "size": 22171,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_1.webm",
+                           "name": "cartoon_divine_1.webm",
+                           "size": 22790,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_2.mp4",
+                           "name": "cartoon_divine_2.mp4",
+                           "size": 27895,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_2.webm",
+                           "name": "cartoon_divine_2.webm",
+                           "size": 30237,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_3.mp4",
+                           "name": "cartoon_divine_3.mp4",
+                           "size": 43107,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/cartoon_divine_3.webm",
+                           "name": "cartoon_divine_3.webm",
+                           "size": 42227,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_1.mp4",
+                           "name": "child_laugh_1.mp4",
+                           "size": 70189,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_1.webm",
+                           "name": "child_laugh_1.webm",
+                           "size": 66645,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_2.mp4",
+                           "name": "child_laugh_2.mp4",
+                           "size": 64422,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_2.webm",
+                           "name": "child_laugh_2.webm",
+                           "size": 61646,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_3.mp4",
+                           "name": "child_laugh_3.mp4",
+                           "size": 71028,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_3.webm",
+                           "name": "child_laugh_3.webm",
+                           "size": 69337,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_4.mp4",
+                           "name": "child_laugh_4.mp4",
+                           "size": 71020,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/child_laugh_4.webm",
+                           "name": "child_laugh_4.webm",
+                           "size": 68746,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_1.mp4",
+                           "name": "choir_1.mp4",
+                           "size": 28287,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_1.webm",
+                           "name": "choir_1.webm",
+                           "size": 28658,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_2.mp4",
+                           "name": "choir_2.mp4",
+                           "size": 32322,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_2.webm",
+                           "name": "choir_2.webm",
+                           "size": 33212,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_3.mp4",
+                           "name": "choir_3.mp4",
+                           "size": 37363,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/choir_3.webm",
+                           "name": "choir_3.webm",
+                           "size": 35835,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/clarinet_suspense_1.mp4",
+                           "name": "clarinet_suspense_1.mp4",
+                           "size": 46168,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/clarinet_suspense_1.webm",
+                           "name": "clarinet_suspense_1.webm",
+                           "size": 47467,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/clarinet_suspense_2.mp4",
+                           "name": "clarinet_suspense_2.mp4",
+                           "size": 51768,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/clarinet_suspense_2.webm",
+                           "name": "clarinet_suspense_2.webm",
+                           "size": 54554,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/click_sweep.mp4",
+                           "name": "click_sweep.mp4",
+                           "size": 10564,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/click_sweep.webm",
+                           "name": "click_sweep.webm",
+                           "size": 9432,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/count_blips.mp4",
+                           "name": "count_blips.mp4",
+                           "size": 3631,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/count_blips.webm",
+                           "name": "count_blips.webm",
+                           "size": 5864,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/crow.mp4",
+                           "name": "crow.mp4",
+                           "size": 8543,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/crow.webm",
+                           "name": "crow.webm",
+                           "size": 13312,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_1.mp4",
+                           "name": "dopatrill_flute_1.mp4",
+                           "size": 13842,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_1.webm",
+                           "name": "dopatrill_flute_1.webm",
+                           "size": 18058,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_10.mp4",
+                           "name": "dopatrill_flute_10.mp4",
+                           "size": 25783,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_10.webm",
+                           "name": "dopatrill_flute_10.webm",
+                           "size": 26278,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_11.mp4",
+                           "name": "dopatrill_flute_11.mp4",
+                           "size": 32276,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_11.webm",
+                           "name": "dopatrill_flute_11.webm",
+                           "size": 35260,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_2.mp4",
+                           "name": "dopatrill_flute_2.mp4",
+                           "size": 21269,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_2.webm",
+                           "name": "dopatrill_flute_2.webm",
+                           "size": 25195,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_3.mp4",
+                           "name": "dopatrill_flute_3.mp4",
+                           "size": 21419,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_3.webm",
+                           "name": "dopatrill_flute_3.webm",
+                           "size": 26424,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_4.mp4",
+                           "name": "dopatrill_flute_4.mp4",
+                           "size": 21456,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_4.webm",
+                           "name": "dopatrill_flute_4.webm",
+                           "size": 26623,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_5.mp4",
+                           "name": "dopatrill_flute_5.mp4",
+                           "size": 21432,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_5.webm",
+                           "name": "dopatrill_flute_5.webm",
+                           "size": 25904,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_6.mp4",
+                           "name": "dopatrill_flute_6.mp4",
+                           "size": 21535,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_6.webm",
+                           "name": "dopatrill_flute_6.webm",
+                           "size": 26847,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_7.mp4",
+                           "name": "dopatrill_flute_7.mp4",
+                           "size": 21512,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_7.webm",
+                           "name": "dopatrill_flute_7.webm",
+                           "size": 26693,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_8.mp4",
+                           "name": "dopatrill_flute_8.mp4",
+                           "size": 25702,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_8.webm",
+                           "name": "dopatrill_flute_8.webm",
+                           "size": 26922,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_9.mp4",
+                           "name": "dopatrill_flute_9.mp4",
+                           "size": 21754,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/dopatrill_flute_9.webm",
+                           "name": "dopatrill_flute_9.webm",
+                           "size": 23949,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/drum_roll.mp4",
+                           "name": "drum_roll.mp4",
+                           "size": 19273,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/drum_roll.webm",
+                           "name": "drum_roll.webm",
+                           "size": 17817,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/drum_start.mp4",
+                           "name": "drum_start.mp4",
+                           "size": 2315,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/drum_start.webm",
+                           "name": "drum_start.webm",
+                           "size": 2542,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/enter.mp4",
+                           "name": "enter.mp4",
+                           "size": 42042,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/enter.webm",
+                           "name": "enter.webm",
+                           "size": 39814,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/funny_boing.mp4",
+                           "name": "funny_boing.mp4",
+                           "size": 11236,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/funny_boing.webm",
+                           "name": "funny_boing.webm",
+                           "size": 15652,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/girl_cry.mp4",
+                           "name": "girl_cry.mp4",
+                           "size": 12140,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/girl_cry.webm",
+                           "name": "girl_cry.webm",
+                           "size": 15185,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_1.mp4",
+                           "name": "gong_1.mp4",
+                           "size": 36287,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_1.webm",
+                           "name": "gong_1.webm",
+                           "size": 40203,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_2.mp4",
+                           "name": "gong_2.mp4",
+                           "size": 41548,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_2.webm",
+                           "name": "gong_2.webm",
+                           "size": 39554,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_3.mp4",
+                           "name": "gong_3.mp4",
+                           "size": 77899,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/gong_3.webm",
+                           "name": "gong_3.webm",
+                           "size": 90485,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/horn_laugh.mp4",
+                           "name": "horn_laugh.mp4",
+                           "size": 32084,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/horn_laugh.webm",
+                           "name": "horn_laugh.webm",
+                           "size": 28203,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/intro.mp4",
+                           "name": "intro.mp4",
+                           "size": 22130,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/intro.webm",
+                           "name": "intro.webm",
+                           "size": 19409,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/kaching.mp4",
+                           "name": "kaching.mp4",
+                           "size": 19140,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/kaching.webm",
+                           "name": "kaching.webm",
+                           "size": 17922,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/kiss.mp4",
+                           "name": "kiss.mp4",
+                           "size": 10652,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/kiss.webm",
+                           "name": "kiss.webm",
+                           "size": 12867,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_0.mp4",
+                           "name": "laugh_count_up_0.mp4",
+                           "size": 80100,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_0.webm",
+                           "name": "laugh_count_up_0.webm",
+                           "size": 84175,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_2.mp4",
+                           "name": "laugh_count_up_2.mp4",
+                           "size": 51976,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_2.webm",
+                           "name": "laugh_count_up_2.webm",
+                           "size": 54716,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_3.mp4",
+                           "name": "laugh_count_up_3.mp4",
+                           "size": 75267,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/laugh_count_up_3.webm",
+                           "name": "laugh_count_up_3.webm",
+                           "size": 67871,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mech_click_reset.mp4",
+                           "name": "mech_click_reset.mp4",
+                           "size": 2713,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mech_click_reset.webm",
+                           "name": "mech_click_reset.webm",
+                           "size": 3522,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mech_pops.mp4",
+                           "name": "mech_pops.mp4",
+                           "size": 6610,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mech_pops.webm",
+                           "name": "mech_pops.webm",
+                           "size": 10422,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_1.mp4",
+                           "name": "mechanism_1.mp4",
+                           "size": 4654,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_1.webm",
+                           "name": "mechanism_1.webm",
+                           "size": 7180,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_2.mp4",
+                           "name": "mechanism_2.mp4",
+                           "size": 5060,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_2.webm",
+                           "name": "mechanism_2.webm",
+                           "size": 6525,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_3.mp4",
+                           "name": "mechanism_3.mp4",
+                           "size": 6721,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/mechanism_3.webm",
+                           "name": "mechanism_3.webm",
+                           "size": 10274,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_1.mp4",
+                           "name": "money_1.mp4",
+                           "size": 19888,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_1.webm",
+                           "name": "money_1.webm",
+                           "size": 19712,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_2.mp4",
+                           "name": "money_2.mp4",
+                           "size": 19889,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_2.webm",
+                           "name": "money_2.webm",
+                           "size": 19565,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_3.mp4",
+                           "name": "money_3.mp4",
+                           "size": 19361,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_3.webm",
+                           "name": "money_3.webm",
+                           "size": 20188,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_4.mp4",
+                           "name": "money_4.mp4",
+                           "size": 19131,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_4.webm",
+                           "name": "money_4.webm",
+                           "size": 21885,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_5.mp4",
+                           "name": "money_5.mp4",
+                           "size": 19214,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_5.webm",
+                           "name": "money_5.webm",
+                           "size": 19555,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_1.mp4",
+                           "name": "money_drum_1.mp4",
+                           "size": 25449,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_1.webm",
+                           "name": "money_drum_1.webm",
+                           "size": 22393,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_2.mp4",
+                           "name": "money_drum_2.mp4",
+                           "size": 24907,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_2.webm",
+                           "name": "money_drum_2.webm",
+                           "size": 20418,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_3.mp4",
+                           "name": "money_drum_3.mp4",
+                           "size": 25086,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_3.webm",
+                           "name": "money_drum_3.webm",
+                           "size": 22514,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_4.mp4",
+                           "name": "money_drum_4.mp4",
+                           "size": 24957,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_4.webm",
+                           "name": "money_drum_4.webm",
+                           "size": 20006,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_5.mp4",
+                           "name": "money_drum_5.mp4",
+                           "size": 24926,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_5.webm",
+                           "name": "money_drum_5.webm",
+                           "size": 19876,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_6.mp4",
+                           "name": "money_drum_6.mp4",
+                           "size": 25064,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_6.webm",
+                           "name": "money_drum_6.webm",
+                           "size": 20338,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_7.mp4",
+                           "name": "money_drum_7.mp4",
+                           "size": 43681,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_7.webm",
+                           "name": "money_drum_7.webm",
+                           "size": 43313,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_8.mp4",
+                           "name": "money_drum_8.mp4",
+                           "size": 43711,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_8.webm",
+                           "name": "money_drum_8.webm",
+                           "size": 44671,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_9.mp4",
+                           "name": "money_drum_9.mp4",
+                           "size": 43674,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/money_drum_9.webm",
+                           "name": "money_drum_9.webm",
+                           "size": 42840,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_0.mp4",
+                           "name": "music_bonus_2_level_0.mp4",
+                           "size": 427729,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_0.webm",
+                           "name": "music_bonus_2_level_0.webm",
+                           "size": 469302,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_1.mp4",
+                           "name": "music_bonus_2_level_1.mp4",
+                           "size": 428362,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_1.webm",
+                           "name": "music_bonus_2_level_1.webm",
+                           "size": 473017,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_2.mp4",
+                           "name": "music_bonus_2_level_2.mp4",
+                           "size": 427632,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_2.webm",
+                           "name": "music_bonus_2_level_2.webm",
+                           "size": 419983,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_3.mp4",
+                           "name": "music_bonus_2_level_3.mp4",
+                           "size": 427886,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_2_level_3.webm",
+                           "name": "music_bonus_2_level_3.webm",
+                           "size": 411481,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_0.mp4",
+                           "name": "music_bonus_3_level_0.mp4",
+                           "size": 277448,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_0.webm",
+                           "name": "music_bonus_3_level_0.webm",
+                           "size": 294741,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_1.mp4",
+                           "name": "music_bonus_3_level_1.mp4",
+                           "size": 278853,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_1.webm",
+                           "name": "music_bonus_3_level_1.webm",
+                           "size": 311779,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_2.mp4",
+                           "name": "music_bonus_3_level_2.mp4",
+                           "size": 278288,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_2.webm",
+                           "name": "music_bonus_3_level_2.webm",
+                           "size": 295051,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_3.mp4",
+                           "name": "music_bonus_3_level_3.mp4",
+                           "size": 277529,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_3_level_3.webm",
+                           "name": "music_bonus_3_level_3.webm",
+                           "size": 267787,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_0.mp4",
+                           "name": "music_bonus_level_0.mp4",
+                           "size": 587893,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_0.webm",
+                           "name": "music_bonus_level_0.webm",
+                           "size": 705892,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_1.mp4",
+                           "name": "music_bonus_level_1.mp4",
+                           "size": 588691,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_1.webm",
+                           "name": "music_bonus_level_1.webm",
+                           "size": 653891,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_2.mp4",
+                           "name": "music_bonus_level_2.mp4",
+                           "size": 295588,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_2.webm",
+                           "name": "music_bonus_level_2.webm",
+                           "size": 321169,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_3.mp4",
+                           "name": "music_bonus_level_3.mp4",
+                           "size": 294808,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_bonus_level_3.webm",
+                           "name": "music_bonus_level_3.webm",
+                           "size": 301685,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_0.mp4",
+                           "name": "music_level_0.mp4",
+                           "size": 362120,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_0.webm",
+                           "name": "music_level_0.webm",
+                           "size": 399360,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_1.mp4",
+                           "name": "music_level_1.mp4",
+                           "size": 361895,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_1.webm",
+                           "name": "music_level_1.webm",
+                           "size": 365104,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_2.mp4",
+                           "name": "music_level_2.mp4",
+                           "size": 362607,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_2.webm",
+                           "name": "music_level_2.webm",
+                           "size": 399498,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_3.mp4",
+                           "name": "music_level_3.mp4",
+                           "size": 362496,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/music_level_3.webm",
+                           "name": "music_level_3.webm",
+                           "size": 355215,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_1.mp4",
+                           "name": "orchestra_hit_1.mp4",
+                           "size": 11726,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_1.webm",
+                           "name": "orchestra_hit_1.webm",
+                           "size": 10660,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_2.mp4",
+                           "name": "orchestra_hit_2.mp4",
+                           "size": 12827,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_2.webm",
+                           "name": "orchestra_hit_2.webm",
+                           "size": 11405,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_3.mp4",
+                           "name": "orchestra_hit_3.mp4",
+                           "size": 13085,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_3.webm",
+                           "name": "orchestra_hit_3.webm",
+                           "size": 12378,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_4.mp4",
+                           "name": "orchestra_hit_4.mp4",
+                           "size": 25318,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_4.webm",
+                           "name": "orchestra_hit_4.webm",
+                           "size": 23639,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_5.mp4",
+                           "name": "orchestra_hit_5.mp4",
+                           "size": 25420,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/orchestra_hit_5.webm",
+                           "name": "orchestra_hit_5.webm",
+                           "size": 23581,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_1.mp4",
+                           "name": "pop_1.mp4",
+                           "size": 2817,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_1.webm",
+                           "name": "pop_1.webm",
+                           "size": 3390,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_2.mp4",
+                           "name": "pop_2.mp4",
+                           "size": 2518,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_2.webm",
+                           "name": "pop_2.webm",
+                           "size": 3458,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_3.mp4",
+                           "name": "pop_3.mp4",
+                           "size": 2460,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_3.webm",
+                           "name": "pop_3.webm",
+                           "size": 3485,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_4.mp4",
+                           "name": "pop_4.mp4",
+                           "size": 2414,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_4.webm",
+                           "name": "pop_4.webm",
+                           "size": 3401,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_1.mp4",
+                           "name": "pop_trill_1.mp4",
+                           "size": 9089,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_1.webm",
+                           "name": "pop_trill_1.webm",
+                           "size": 10253,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_2.mp4",
+                           "name": "pop_trill_2.mp4",
+                           "size": 9449,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_2.webm",
+                           "name": "pop_trill_2.webm",
+                           "size": 11308,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_3.mp4",
+                           "name": "pop_trill_3.mp4",
+                           "size": 10042,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/pop_trill_3.webm",
+                           "name": "pop_trill_3.webm",
+                           "size": 12617,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/roll_crash.mp4",
+                           "name": "roll_crash.mp4",
+                           "size": 20797,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/roll_crash.webm",
+                           "name": "roll_crash.webm",
+                           "size": 18415,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/roll_crash_brass.mp4",
+                           "name": "roll_crash_brass.mp4",
+                           "size": 27798,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/roll_crash_brass.webm",
+                           "name": "roll_crash_brass.webm",
+                           "size": 24869,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_1.mp4",
+                           "name": "satan_1.mp4",
+                           "size": 22896,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_1.webm",
+                           "name": "satan_1.webm",
+                           "size": 24373,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_2.mp4",
+                           "name": "satan_2.mp4",
+                           "size": 17648,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_2.webm",
+                           "name": "satan_2.webm",
+                           "size": 18437,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_3.mp4",
+                           "name": "satan_3.mp4",
+                           "size": 17177,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_3.webm",
+                           "name": "satan_3.webm",
+                           "size": 19971,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_4.mp4",
+                           "name": "satan_4.mp4",
+                           "size": 22745,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_4.webm",
+                           "name": "satan_4.webm",
+                           "size": 22246,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_5.mp4",
+                           "name": "satan_5.mp4",
+                           "size": 21546,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_5.webm",
+                           "name": "satan_5.webm",
+                           "size": 22336,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_6.mp4",
+                           "name": "satan_6.mp4",
+                           "size": 19891,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/satan_6.webm",
+                           "name": "satan_6.webm",
+                           "size": 22069,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/sine_lock.mp4",
+                           "name": "sine_lock.mp4",
+                           "size": 4118,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/sine_lock.webm",
+                           "name": "sine_lock.webm",
+                           "size": 5459,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/slowdown_mechanism.mp4",
+                           "name": "slowdown_mechanism.mp4",
+                           "size": 19657,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/slowdown_mechanism.webm",
+                           "name": "slowdown_mechanism.webm",
+                           "size": 22720,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/slowdown_mechanism_long.mp4",
+                           "name": "slowdown_mechanism_long.mp4",
+                           "size": 33458,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/slowdown_mechanism_long.webm",
+                           "name": "slowdown_mechanism_long.webm",
+                           "size": 32763,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/snake.mp4",
+                           "name": "snake.mp4",
+                           "size": 11037,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/snake.webm",
+                           "name": "snake.webm",
+                           "size": 12554,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/spinclick_2.mp4",
+                           "name": "spinclick_2.mp4",
+                           "size": 9394,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/spinclick_2.webm",
+                           "name": "spinclick_2.webm",
+                           "size": 9890,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_1.mp4",
+                           "name": "switch_1.mp4",
+                           "size": 4985,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_1.webm",
+                           "name": "switch_1.webm",
+                           "size": 5212,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_2.mp4",
+                           "name": "switch_2.mp4",
+                           "size": 5161,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_2.webm",
+                           "name": "switch_2.webm",
+                           "size": 6120,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_3.mp4",
+                           "name": "switch_3.mp4",
+                           "size": 4585,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_3.webm",
+                           "name": "switch_3.webm",
+                           "size": 5736,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_4.mp4",
+                           "name": "switch_4.mp4",
+                           "size": 5776,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/switch_4.webm",
+                           "name": "switch_4.webm",
+                           "size": 6433,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/swoosh.mp4",
+                           "name": "swoosh.mp4",
+                           "size": 6771,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/swoosh.webm",
+                           "name": "swoosh.webm",
+                           "size": 5436,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/vintage_cash.mp4",
+                           "name": "vintage_cash.mp4",
+                           "size": 31350,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/vintage_cash.webm",
+                           "name": "vintage_cash.webm",
+                           "size": 30735,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_1.mp4",
+                           "name": "wheelspin_1.mp4",
+                           "size": 23381,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_1.webm",
+                           "name": "wheelspin_1.webm",
+                           "size": 26364,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_2.mp4",
+                           "name": "wheelspin_2.mp4",
+                           "size": 23632,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_2.webm",
+                           "name": "wheelspin_2.webm",
+                           "size": 26931,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_3.mp4",
+                           "name": "wheelspin_3.mp4",
+                           "size": 23929,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wheelspin_3.webm",
+                           "name": "wheelspin_3.webm",
+                           "size": 26824,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/whistle.mp4",
+                           "name": "whistle.mp4",
+                           "size": 11231,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/whistle.webm",
+                           "name": "whistle.webm",
+                           "size": 12899,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_count.mp4",
+                           "name": "win_count.mp4",
+                           "size": 2652,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_count.webm",
+                           "name": "win_count.webm",
+                           "size": 3112,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_high.mp4",
+                           "name": "win_end_bet_high.mp4",
+                           "size": 40858,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_high.webm",
+                           "name": "win_end_bet_high.webm",
+                           "size": 35038,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_low.mp4",
+                           "name": "win_end_bet_low.mp4",
+                           "size": 14557,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_low.webm",
+                           "name": "win_end_bet_low.webm",
+                           "size": 16719,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_over.mp4",
+                           "name": "win_end_bet_over.mp4",
+                           "size": 19344,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/win_end_bet_over.webm",
+                           "name": "win_end_bet_over.webm",
+                           "size": 23932,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_1.mp4",
+                           "name": "wintier_1.mp4",
+                           "size": 34963,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_1.webm",
+                           "name": "wintier_1.webm",
+                           "size": 33236,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_2.mp4",
+                           "name": "wintier_2.mp4",
+                           "size": 35089,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_2.webm",
+                           "name": "wintier_2.webm",
+                           "size": 32856,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_3.mp4",
+                           "name": "wintier_3.mp4",
+                           "size": 37705,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_3.webm",
+                           "name": "wintier_3.webm",
+                           "size": 35635,
+                           "type": "file",
+                           "extension": ".webm"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_4.mp4",
+                           "name": "wintier_4.mp4",
+                           "size": 57065,
+                           "type": "file",
+                           "extension": ".mp4"
+                        },
+                        {
+                           "path": "assets/default/common/sound/wintier_4.webm",
+                           "name": "wintier_4.webm",
+                           "size": 53645,
+                           "type": "file",
+                           "extension": ".webm"
+                        }
+                     ],
+                     "size": 17721604,
+                     "type": "directory"
+                  },
+                  {
+                     "path": "assets/default/common/spine",
+                     "name": "spine",
+                     "children": [
+                        {
+                           "path": "assets/default/common/spine/bonus_bg.atlas",
+                           "name": "bonus_bg.atlas",
+                           "size": 2220,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/bonus_bg.json",
+                           "name": "bonus_bg.json",
+                           "size": 179466,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/bonus_bg.ktx2",
+                           "name": "bonus_bg.ktx2",
+                           "size": 350424,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/bossdevil.atlas",
+                           "name": "bossdevil.atlas",
+                           "size": 1240,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/bossdevil.json",
+                           "name": "bossdevil.json",
+                           "size": 235658,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/bossdevil.ktx2",
+                           "name": "bossdevil.ktx2",
+                           "size": 184984,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/countup_tiers.atlas",
+                           "name": "countup_tiers.atlas",
+                           "size": 5868,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/countup_tiers.json",
+                           "name": "countup_tiers.json",
+                           "size": 807060,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/countup_tiers.ktx2",
+                           "name": "countup_tiers.ktx2",
+                           "size": 295016,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/encoding.json",
+                           "name": "encoding.json",
+                           "size": 214,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fire_bg.atlas",
+                           "name": "fire_bg.atlas",
+                           "size": 367,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fire_bg.json",
+                           "name": "fire_bg.json",
+                           "size": 263004,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fire_bg.ktx2",
+                           "name": "fire_bg.ktx2",
+                           "size": 225853,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fs_attention.atlas",
+                           "name": "fs_attention.atlas",
+                           "size": 87,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fs_attention.json",
+                           "name": "fs_attention.json",
+                           "size": 2135,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/fs_attention.ktx2",
+                           "name": "fs_attention.ktx2",
+                           "size": 146240,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/left_girl.atlas",
+                           "name": "left_girl.atlas",
+                           "size": 911,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/left_girl.json",
+                           "name": "left_girl.json",
+                           "size": 187282,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/left_girl.ktx2",
+                           "name": "left_girl.ktx2",
+                           "size": 220923,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/localized",
+                           "name": "localized",
+                           "children": [
+                              {
+                                 "path": "assets/default/common/spine/localized/es-es",
+                                 "name": "es-es",
+                                 "children": [
+                                    {
+                                       "path": "assets/default/common/spine/localized/es-es/countup_tiers.atlas",
+                                       "name": "countup_tiers.atlas",
+                                       "size": 5765,
+                                       "type": "file",
+                                       "extension": ".atlas"
+                                    },
+                                    {
+                                       "path": "assets/default/common/spine/localized/es-es/countup_tiers.json",
+                                       "name": "countup_tiers.json",
+                                       "size": 805817,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/default/common/spine/localized/es-es/countup_tiers.ktx2",
+                                       "name": "countup_tiers.ktx2",
+                                       "size": 226360,
+                                       "type": "file",
+                                       "extension": ".ktx2"
+                                    }
+                                 ],
+                                 "size": 1037942,
+                                 "type": "directory"
+                              }
+                           ],
+                           "size": 1037942,
+                           "type": "directory"
+                        },
+                        {
+                           "path": "assets/default/common/spine/right_girl.atlas",
+                           "name": "right_girl.atlas",
+                           "size": 1562,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/right_girl.json",
+                           "name": "right_girl.json",
+                           "size": 397640,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/right_girl.ktx2",
+                           "name": "right_girl.ktx2",
+                           "size": 205167,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/symbols.atlas",
+                           "name": "symbols.atlas",
+                           "size": 5874,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/symbols.json",
+                           "name": "symbols.json",
+                           "size": 612833,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/symbols.ktx2",
+                           "name": "symbols.ktx2",
+                           "size": 604002,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        },
+                        {
+                           "path": "assets/default/common/spine/wheel.atlas",
+                           "name": "wheel.atlas",
+                           "size": 1691,
+                           "type": "file",
+                           "extension": ".atlas"
+                        },
+                        {
+                           "path": "assets/default/common/spine/wheel.json",
+                           "name": "wheel.json",
+                           "size": 292175,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/default/common/spine/wheel.ktx2",
+                           "name": "wheel.ktx2",
+                           "size": 222510,
+                           "type": "file",
+                           "extension": ".ktx2"
+                        }
+                     ],
+                     "size": 6490348,
+                     "type": "directory"
+                  }
+               ],
+               "size": 69476743,
+               "type": "directory"
+            }
+         ],
+         "size": 69476743,
+         "type": "directory"
+      },
+      {
+         "path": "assets/social",
+         "name": "social",
+         "children": [
+            {
+               "path": "assets/social/common",
+               "name": "common",
+               "children": [
+                  {
+                     "path": "assets/social/common/config",
+                     "name": "config",
+                     "children": [
+                        {
+                           "path": "assets/social/common/config/gameconfig.json",
+                           "name": "gameconfig.json",
+                           "size": 3042,
+                           "type": "file",
+                           "extension": ".json"
+                        }
+                     ],
+                     "size": 3042,
+                     "type": "directory"
+                  },
+                  {
+                     "path": "assets/social/common/font",
+                     "name": "font",
+                     "children": [
+                        {
+                           "path": "assets/social/common/font/arco.ttf",
+                           "name": "arco.ttf",
+                           "size": 207088,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/cyrillicfb.ttf",
+                           "name": "cyrillicfb.ttf",
+                           "size": 169352,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/fontconfig.json",
+                           "name": "fontconfig.json",
+                           "size": 600,
+                           "type": "file",
+                           "extension": ".json"
+                        },
+                        {
+                           "path": "assets/social/common/font/localized",
+                           "name": "localized",
+                           "children": [
+                              {
+                                 "path": "assets/social/common/font/localized/bg-bg",
+                                 "name": "bg-bg",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/bg-bg/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20193,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/bg-bg/arco.png",
+                                       "name": "arco.png",
+                                       "size": 134186,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 154379,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/cs-cz",
+                                 "name": "cs-cz",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/cs-cz/arco.json",
+                                       "name": "arco.json",
+                                       "size": 19218,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/cs-cz/arco.png",
+                                       "name": "arco.png",
+                                       "size": 122742,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 141960,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/da-dk",
+                                 "name": "da-dk",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/da-dk/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15118,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/da-dk/arco.png",
+                                       "name": "arco.png",
+                                       "size": 119514,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 134632,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/de-de",
+                                 "name": "de-de",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/de-de/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15625,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/de-de/arco.png",
+                                       "name": "arco.png",
+                                       "size": 124201,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 139826,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/el-gr",
+                                 "name": "el-gr",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/el-gr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 19068,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/el-gr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 138764,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 157832,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/en-us",
+                                 "name": "en-us",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/en-us/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14151,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/en-us/arco.png",
+                                       "name": "arco.png",
+                                       "size": 114616,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 128767,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/es-es",
+                                 "name": "es-es",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/es-es/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15878,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/es-es/arco.png",
+                                       "name": "arco.png",
+                                       "size": 123907,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 139785,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/fi-fi",
+                                 "name": "fi-fi",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/fi-fi/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14331,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/fi-fi/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111224,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 125555,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/fr-fr",
+                                 "name": "fr-fr",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/fr-fr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15690,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/fr-fr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 97658,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 113348,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/hr-hr",
+                                 "name": "hr-hr",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/hr-hr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16130,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/hr-hr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 100669,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 116799,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/hu-hu",
+                                 "name": "hu-hu",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/hu-hu/arco.json",
+                                       "name": "arco.json",
+                                       "size": 18255,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/hu-hu/arco.png",
+                                       "name": "arco.png",
+                                       "size": 113795,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 132050,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/id-id",
+                                 "name": "id-id",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/id-id/arco.json",
+                                       "name": "arco.json",
+                                       "size": 13953,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/id-id/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111665,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 125618,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/it-it",
+                                 "name": "it-it",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/it-it/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14495,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/it-it/arco.png",
+                                       "name": "arco.png",
+                                       "size": 90956,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 105451,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/ja-jp",
+                                 "name": "ja-jp",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/ja-jp/arco.json",
+                                       "name": "arco.json",
+                                       "size": 30553,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/ja-jp/arco.png",
+                                       "name": "arco.png",
+                                       "size": 376229,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 406782,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/ko-kr",
+                                 "name": "ko-kr",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/ko-kr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 31213,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/ko-kr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 258140,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 289353,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/lt-lt",
+                                 "name": "lt-lt",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/lt-lt/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17971,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/lt-lt/arco.png",
+                                       "name": "arco.png",
+                                       "size": 109016,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 126987,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/lv-lv",
+                                 "name": "lv-lv",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/lv-lv/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17586,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/lv-lv/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111750,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 129336,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/nl-nl",
+                                 "name": "nl-nl",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/nl-nl/arco.json",
+                                       "name": "arco.json",
+                                       "size": 14736,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/nl-nl/arco.png",
+                                       "name": "arco.png",
+                                       "size": 118391,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 133127,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/no-no",
+                                 "name": "no-no",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/no-no/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15007,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/no-no/arco.png",
+                                       "name": "arco.png",
+                                       "size": 118020,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 133027,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/pl-pl",
+                                 "name": "pl-pl",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/pl-pl/arco.json",
+                                       "name": "arco.json",
+                                       "size": 18062,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/pl-pl/arco.png",
+                                       "name": "arco.png",
+                                       "size": 113677,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 131739,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/pt-br",
+                                 "name": "pt-br",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/pt-br/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17098,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/pt-br/arco.png",
+                                       "name": "arco.png",
+                                       "size": 109301,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 126399,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/pt-pt",
+                                 "name": "pt-pt",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/pt-pt/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16267,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/pt-pt/arco.png",
+                                       "name": "arco.png",
+                                       "size": 103871,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 120138,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/ro-ro",
+                                 "name": "ro-ro",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/ro-ro/arco.json",
+                                       "name": "arco.json",
+                                       "size": 16496,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/ro-ro/arco.png",
+                                       "name": "arco.png",
+                                       "size": 103689,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 120185,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/ru-ru",
+                                 "name": "ru-ru",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/ru-ru/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20368,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/ru-ru/arco.png",
+                                       "name": "arco.png",
+                                       "size": 122415,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 142783,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/sv-se",
+                                 "name": "sv-se",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/sv-se/arco.json",
+                                       "name": "arco.json",
+                                       "size": 15329,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/sv-se/arco.png",
+                                       "name": "arco.png",
+                                       "size": 114392,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 129721,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/th-th",
+                                 "name": "th-th",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/th-th/arco.json",
+                                       "name": "arco.json",
+                                       "size": 20265,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/th-th/arco.png",
+                                       "name": "arco.png",
+                                       "size": 123669,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 143934,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/tr-tr",
+                                 "name": "tr-tr",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/tr-tr/arco.json",
+                                       "name": "arco.json",
+                                       "size": 17606,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/tr-tr/arco.png",
+                                       "name": "arco.png",
+                                       "size": 111254,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 128860,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/uk-ua",
+                                 "name": "uk-ua",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/uk-ua/arco.json",
+                                       "name": "arco.json",
+                                       "size": 22001,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/uk-ua/arco.png",
+                                       "name": "arco.png",
+                                       "size": 127501,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 149502,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/vi-vn",
+                                 "name": "vi-vn",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/vi-vn/arco.json",
+                                       "name": "arco.json",
+                                       "size": 25929,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/vi-vn/arco.png",
+                                       "name": "arco.png",
+                                       "size": 174535,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 200464,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/zh-cn",
+                                 "name": "zh-cn",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/zh-cn/arco.json",
+                                       "name": "arco.json",
+                                       "size": 28598,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/zh-cn/arco.png",
+                                       "name": "arco.png",
+                                       "size": 367162,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 395760,
+                                 "type": "directory"
+                              },
+                              {
+                                 "path": "assets/social/common/font/localized/zh-tw",
+                                 "name": "zh-tw",
+                                 "children": [
+                                    {
+                                       "path": "assets/social/common/font/localized/zh-tw/arco.json",
+                                       "name": "arco.json",
+                                       "size": 27625,
+                                       "type": "file",
+                                       "extension": ".json"
+                                    },
+                                    {
+                                       "path": "assets/social/common/font/localized/zh-tw/arco.png",
+                                       "name": "arco.png",
+                                       "size": 347037,
+                                       "type": "file",
+                                       "extension": ".png"
+                                    }
+                                 ],
+                                 "size": 374662,
+                                 "type": "directory"
+                              }
+                           ],
+                           "size": 5098761,
+                           "type": "directory"
+                        },
+                        {
+                           "path": "assets/social/common/font/notosansblack.ttf",
+                           "name": "notosansblack.ttf",
+                           "size": 492052,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/pridi.ttf",
+                           "name": "pridi.ttf",
+                           "size": 201320,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/rubik_black.ttf",
+                           "name": "rubik_black.ttf",
+                           "size": 139164,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/sourcehansans_hwj_bold.ttf",
+                           "name": "sourcehansans_hwj_bold.ttf",
+                           "size": 17869588,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/sourcehansans_hwsc_bold.ttf",
+                           "name": "sourcehansans_hwsc_bold.ttf",
+                           "size": 17839816,
+                           "type": "file",
+                           "extension": ".ttf"
+                        },
+                        {
+                           "path": "assets/social/common/font/titanone_regular.ttf",
+                           "name": "titanone_regular.ttf",
+                           "size": 80728,
+                           "type": "file",
+                           "extension": ".ttf"
+                        }
+                     ],
+                     "size": 42098469,
+                     "type": "directory"
+                  }
+               ],
+               "size": 42101511,
+               "type": "directory"
+            }
+         ],
+         "size": 42101511,
+         "type": "directory"
+      }
+   ],
+   "size": 111578254,
+   "type": "directory"
+}
