@@ -1,0 +1,5 @@
+fs_attention.png
+size:2048,2048
+filter:Linear,Linear
+fs_attention
+bounds:2,2,1500,1500
